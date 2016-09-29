@@ -1,1 +1,1 @@
-# wingrid
+# example-mapping-serenity
